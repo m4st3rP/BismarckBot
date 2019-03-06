@@ -1,6 +1,7 @@
 praw.ini
 channel.txt
 token.txt
+done_posts.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
